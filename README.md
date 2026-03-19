@@ -21,11 +21,58 @@ Estudante de Redes de Computadores — IBMR
 
 ## Projetos em destaque
 
- [Sistema musical para Arduino](https://github.com/sanfoneiroo/melodias)  
-[Metrônomo para Arduino](https://github.com/sanfoneiroo/metronomo_arduino)  
- [Reprodução de áudio WAV no ESP32](https://github.com/sanfoneiroo/wav_esp32)  
- [Monitor de áudio Bluetooth com ESP32](https://github.com/sanfoneiroo/AudioMonitor_ESP32)  
- [Controlador MIDI RP2040 + Sonic Pi](https://github.com/sanfoneiroo/livecoding)  
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="300">
+<img src="./images/img1.png"><br>
+<b>Sistema Musical Modular</b><br><br>
+<a href="https://github.com/sanfoneiroo/melodias"> Código</a> |
+<a href="https://blog.eletrogate.com/sistema-musical-modular-para-arduino-e-esp32/"> Artigo</a>
+</td>
+</tr>
+<tr>
+
+<td align="center" width="300">
+<img src="./images/img2.png"><br>
+<b>Metrônomo Arduino</b><br><br>
+<a href="https://github.com/sanfoneiroo/metronomo_arduino"> Código</a> |
+<a href="https://blog.eletrogate.com/metronomo-arduino/"> Artigo</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="300">
+<img src="./images/img3.png"><br>
+<b>WAV no ESP32</b><br><br>
+<a href="https://github.com/sanfoneiroo/wav_esp32"> Código</a> |
+<a href="https://blog.eletrogate.com/reproduzindo-audio-wav-no-esp32/"> Artigo</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
+<b>Monitor Bluetooth ESP32</b><br><br>
+<a href="https://github.com/sanfoneiroo/AudioMonitor_ESP32"> Código</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
+<b>Controlador MIDI RP2040</b><br><br>
+<a href="https://github.com/sanfoneiroo/livecoding"> Código</a>
+</td>
+</tr>
+
+
+
+</table>
+
+</div>  
 
 ---
 
