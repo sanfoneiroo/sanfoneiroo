@@ -41,6 +41,12 @@ Sistema que traduz conceitos musicais como notas, ritmo e andamento em estrutura
 
 ---
 
+### Theremin Ultrassônico
+Instrumento musical gestual baseado em sensor ultrassônico capaz de transformar a distância da mão em controle sonoro em tempo real.  
+[Repositório](https://github.com/sanfoneiroo/ultrasonic_theremin) | [Artigo](https://blog.eletrogate.com/theremin-ultrassonico-com-arduino/)
+
+---
+
 ### Metrônomo Arduino
 Projeto de metrônomo com duas abordagens: controle analógico por potenciômetro para resposta imediata e controle digital com botões e display para precisão de BPM.  
 [Repositório](https://github.com/sanfoneiroo/metronomo_arduino) | [Artigo](https://blog.eletrogate.com/metronomo-arduino/)
@@ -53,13 +59,19 @@ Exploração da reprodução de áudio digital no ESP32, abordando formatação 
 
 ---
 
+### Analisador de Áudio em Tempo Real
+Sistema de análise sonora embarcada utilizando RP2040, microfone amplificado e display OLED 128×64. O projeto captura áudio do ambiente, realiza processamento digital e apresenta diferentes modos de visualização como forma de onda, intensidade sonora e distribuição de frequências.  
+[Repositório](https://github.com/sanfoneiroo/rt_audioanalyzer)
+
+---
+
 ### Monitor Bluetooth ESP32
 Receptor Bluetooth programável com controle de mídia via ESP32 (A2DP), explorando DAC interno vs I2S e integração com sistemas embarcados.  
 [Repositório](https://github.com/sanfoneiroo/AudioMonitor_ESP32)
 
 ---
 
-### Controlador MIDI RP2040
+### LiveCoding Music + Controlador MIDI RP2040
 Interface física para live coding musical com Sonic Pi, utilizando RP2040 como controlador MIDI para manipulação em tempo real de padrões rítmicos e melódicos.  
 [Repositório](https://github.com/sanfoneiroo/livecoding)
 
