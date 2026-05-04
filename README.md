@@ -10,19 +10,13 @@ Músico - Acordeonista
 
 ##  Sobre mim
 
-Desenvolvo projetos embarcados voltados à geração sonora e aplicações musicais, integrando **eletrônica, acústica e linguagem musical**.
-
-Atuo com **Arduino, ESP32 e Raspberry Pi**, explorando desde síntese sonora até interfaces físicas para performance musical.
-
-Licenciatura em Música — UFRJ  
-Estudante de Redes de Computadores — IBMR  
+Músico e acordeonista - Licenciatura em Música (UFRJ), atualmente estudo Redes de Computadores (IBMR) e desenvolvo laboratórios e projetos práticos com sistemas embarcados voltados à geração sonora e aplicações musicais.
 
 ---
 
 <p>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RP2040-652D90?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
@@ -35,27 +29,36 @@ Estudante de Redes de Computadores — IBMR
 
 ## Projetos em destaque
 
-### Sistema Musical Modular
-Sistema que traduz conceitos musicais como notas, ritmo e andamento em estruturas de código reutilizáveis. Organizado em versões para composição, integração embarcada e uso sem PWM por hardware.  
-[Repositório](https://github.com/sanfoneiroo/melodias) | [Artigo](https://blog.eletrogate.com/sistema-musical-modular-para-arduino-e-esp32/)
+### Kathara Labs
+
+Coleção de laboratórios práticos de redes utilizando Kathara, containers Docker e ferramentas de rede do Linux. Os cenários evoluem de conectividade básica até VLANs e roteamento, com configuração automatizada via scripts Bash para reprodução consistente dos experimentos.
+[Repositório](https://github.com/sanfoneiroo/kathara_labs) 
 
 ---
 
-### Metrônomo Arduino
-Projeto de metrônomo com duas abordagens: controle analógico por potenciômetro para resposta imediata e controle digital com botões e display para precisão de BPM.  
-[Repositório](https://github.com/sanfoneiroo/metronomo_arduino) | [Artigo](https://blog.eletrogate.com/metronomo-arduino/)
+### Mini-Roteador ESP32
+
+Mini-roteador experimental baseado em ESP32 projetado como ferramenta de laboratório para observação de redes. Atua como gateway entre LAN e WAN, permitindo visualizar clientes conectados, métricas de rede e comportamento de protocolos através de uma interface web. 
+[Repositório] (https://github.com/sanfoneiroo/router_esp32)
 
 ---
 
-### Theremin Ultrassônico
-Instrumento musical gestual baseado em sensor ultrassônico capaz de transformar a distância da mão em controle sonoro em tempo real.  
-[Repositório](https://github.com/sanfoneiroo/ultrasonic_theremin) | [Artigo](https://blog.eletrogate.com/theremin-ultrassonico-com-arduino/)
+### Microfone de Rede ESP32
+
+Microfone de rede baseado em ESP32 capaz de capturar áudio analógico, digitalizar o sinal via ADC e transmiti-lo em tempo real pela rede utilizando RTP sobre UDP.
+[Repositório](https://github.com/sanfoneiroo/esp32-network-microphone)
+
+--- 
+
+### Analisador de Áudio em Tempo Real
+Sistema de análise sonora embarcada utilizando RP2040, microfone amplificado e display OLED 128×64. O projeto captura áudio do ambiente, realiza processamento digital e apresenta diferentes modos de visualização como forma de onda, intensidade sonora e distribuição de frequências.  
+[Repositório](https://github.com/sanfoneiroo/rt_audioanalyzer) | [Artigo](https://blog.eletrogate.com/analisador-de-audio-em-tempo-real-com-rp2040)
 
 ---
 
-### WAV no ESP32
-Exploração da reprodução de áudio digital no ESP32, abordando formatação WAV, conversão de dados e leitura em tempo real via DAC, com foco na relação entre dados e som.  
-[Repositório](https://github.com/sanfoneiroo/wav_esp32) | [Artigo](https://blog.eletrogate.com/reproduzindo-audio-wav-no-esp32/)
+### LiveCoding Music + Controlador MIDI RP2040
+Interface física para live coding musical com Sonic Pi, utilizando RP2040 como controlador MIDI para manipulação em tempo real de padrões rítmicos e melódicos.  
+[Repositório](https://github.com/sanfoneiroo/livecoding) | [Artigo](https://blog.eletrogate.com/live-coding-musical-com-rp-pico-e-sonic-pi/)
 
 ---
 
@@ -65,23 +68,27 @@ Receptor Bluetooth programável com controle de mídia via ESP32 (A2DP), explora
 
 ---
 
-### LiveCoding Music + Controlador MIDI RP2040
-Interface física para live coding musical com Sonic Pi, utilizando RP2040 como controlador MIDI para manipulação em tempo real de padrões rítmicos e melódicos.  
-[Repositório](https://github.com/sanfoneiroo/livecoding)
+### WAV no ESP32
+Exploração da reprodução de áudio digital no ESP32, abordando formatação WAV, conversão de dados e leitura em tempo real via DAC, com foco na relação entre dados e som.  
+[Repositório](https://github.com/sanfoneiroo/wav_esp32) | [Artigo](https://blog.eletrogate.com/reproduzindo-audio-wav-no-esp32/)
 
 ---
 
-### Analisador de Áudio em Tempo Real
-Sistema de análise sonora embarcada utilizando RP2040, microfone amplificado e display OLED 128×64. O projeto captura áudio do ambiente, realiza processamento digital e apresenta diferentes modos de visualização como forma de onda, intensidade sonora e distribuição de frequências.  
-[Repositório](https://github.com/sanfoneiroo/rt_audioanalyzer) | [Artigo](https://blog.eletrogate.com/analisador-de-audio-em-tempo-real-com-rp2040)
+### Theremin Ultrassônico
+Instrumento musical gestual baseado em sensor ultrassônico capaz de transformar a distância da mão em controle sonoro em tempo real.  
+[Repositório](https://github.com/sanfoneiroo/ultrasonic_theremin) | [Artigo](https://blog.eletrogate.com/theremin-ultrassonico-com-arduino/)
 
 ---
 
-### Microfone de Rede ESP32
+### Metrônomo Arduino
+Projeto de metrônomo com duas abordagens: controle analógico por potenciômetro para resposta imediata e controle digital com botões e display para precisão de BPM.  
+[Repositório](https://github.com/sanfoneiroo/metronomo_arduino) | [Artigo](https://blog.eletrogate.com/metronomo-arduino/)
 
-Microfone de rede baseado em ESP32 capaz de capturar áudio analógico, digitalizar o sinal via ADC e transmiti-lo em tempo real pela rede utilizando RTP sobre UDP.
+---
 
-[Repositório](https://github.com/sanfoneiroo/esp32-network-microphone)
+### Sistema Musical Modular
+Sistema que traduz conceitos musicais como notas, ritmo e andamento em estruturas de código reutilizáveis. Organizado em versões para composição, integração embarcada e uso sem PWM por hardware.  
+[Repositório](https://github.com/sanfoneiroo/melodias) | [Artigo](https://blog.eletrogate.com/sistema-musical-modular-para-arduino-e-esp32/)
 
 ---
 
