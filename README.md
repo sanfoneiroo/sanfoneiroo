@@ -23,8 +23,8 @@ Músico e acordeonista - Licenciatura em Música (UFRJ), atualmente estudo Redes
 <p>
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
 ---
 
 ## Projetos em destaque
