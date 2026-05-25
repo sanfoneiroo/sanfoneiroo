@@ -10,7 +10,7 @@ Músico - Acordeonista
 
 ##  Sobre mim
 
-Músico e acordeonista - Licenciatura em Música (UFRJ), atualmente estudo Redes de Computadores (IBMR) e desenvolvo laboratórios e projetos práticos com sistemas embarcados voltados à geração sonora e aplicações musicais.
+Músico e acordeonista - Licenciatura em Música (UFRJ), atualmente estudo Redes de Computadores (IBMR) e desenvolvo laboratórios e projetos práticos de homelab, infraestrutura e sistemas embarcados.
 
 ---
 
@@ -25,6 +25,7 @@ Músico e acordeonista - Licenciatura em Música (UFRJ), atualmente estudo Redes
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
 ---
 
 ## Projetos em destaque
@@ -33,6 +34,14 @@ Músico e acordeonista - Licenciatura em Música (UFRJ), atualmente estudo Redes
 
 Coleção de laboratórios práticos de redes utilizando Kathara, containers Docker e ferramentas de rede do Linux. Os cenários evoluem de conectividade básica até VLANs e roteamento, com configuração automatizada via scripts Bash para reprodução consistente dos experimentos.
 [Repositório](https://github.com/sanfoneiroo/kathara_labs) 
+
+---
+
+### Servidor de Arquivos WiFi ESP32
+
+Servidor de arquivos embarcado para ESP32 com suporte a LittleFS e cartão microSD, gerenciador de arquivos via navegador, display OLED para status do sistema e gerenciador WiFi via servidor web.
+
+[Repositório](https://github.com/sanfoneiroo/fileserver_esp32)
 
 ---
 
