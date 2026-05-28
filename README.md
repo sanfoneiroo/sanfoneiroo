@@ -2,7 +2,7 @@
 <h3 align="center">Erwin de Mattos</h3>
 
 <p align="center">
-Sistemas embarcados - Áudio & Música<br>
+Linux - Sistemas embarcados<br>
 Músico - Acordeonista
 </p>
 
@@ -29,6 +29,14 @@ Músico e acordeonista - Licenciatura em Música (UFRJ), atualmente estudo Redes
 ---
 
 ## Projetos em destaque
+
+### Homelab Labs
+
+Coleção de laboratórios práticos de infraestrutura e self-hosting utilizando Linux, Docker, VPN overlay, DNS local, serviços web e sistemas embarcados. Os cenários exploram desde redes privadas com ZeroTier até servidores multimídia com CasaOS e Jellyfin, documentando arquiteturas, serviços e fluxos reais de laboratório doméstico.
+
+[Repositório](https://github.com/sanfoneiroo/homelab)
+
+---
 
 ### Kathara Labs
 
