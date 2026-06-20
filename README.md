@@ -33,9 +33,9 @@ Músico e acordeonista - Licenciatura em Música (UFRJ), atualmente estudo Redes
 ## Projetos em destaque
 
 ### VPS Labs
+
 Projeto de implantação e administração de infraestrutura web hospedada em nuvem, envolvendo publicação de serviços acessíveis pela Internet, gerenciamento de domínio próprio e manutenção contínua do ambiente.
 
-O projeto contempla a configuração de serviços essenciais para hospedagem, segurança, acesso remoto e monitoramento, permitindo a operação de aplicações e sites em ambiente Linux de forma estável e segura.
 [Acessar Site](https://erwindemattos.com.br)
 
 ### Homelab Labs
@@ -73,6 +73,7 @@ Mini-roteador experimental baseado em ESP32 projetado como ferramenta de laborat
 ### Microfone de Rede ESP32
 
 Microfone de rede baseado em ESP32 capaz de capturar áudio analógico, digitalizar o sinal via ADC e transmiti-lo em tempo real pela rede utilizando RTP sobre UDP.
+
 [Repositório](https://github.com/sanfoneiroo/esp32-network-microphone) | [Artigo](https://blog.eletrogate.com/microfone-de-rede-um-laboratorio-pratico-de-audio-over-ip-aoip-com-esp32)
 
 
@@ -129,7 +130,8 @@ Sistema que traduz conceitos musicais como notas, ritmo e andamento em estrutura
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/erwin-de-mattos-3a0168366/)  
-[Instagram](https://www.instagram.com/erwin.acordeon/)
+[LinkedIn](https://www.linkedin.com/in/erwin-de-mattos-3a0168366/)
+
 [Site](https://erwindemattos.com.br)
+
 [Email](mailto:contato@erwindemattos.com.br)
