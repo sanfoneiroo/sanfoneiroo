@@ -11,7 +11,9 @@ Músico - Acordeonista
 ##  Sobre mim
 
 Músico e acordeonista - Licenciatura em Música (UFRJ), atualmente estudo Redes de Computadores (IBMR) e desenvolvo laboratórios e projetos práticos de homelab, infraestrutura e sistemas embarcados.
+
 [Site](https://erwindemattos.com.br)
+
 [Contato](mailto:contato@erwindemattos.com.br)
 
 ---
