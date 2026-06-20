@@ -132,7 +132,7 @@ Sistema que traduz conceitos musicais como notas, ritmo e andamento em estrutura
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/erwin-de-mattos-3a0168366/)
+[LinkedIn](https://www.linkedin.com/in/erwin-de-mattos)
 
 [Site](https://erwindemattos.com.br)
 
