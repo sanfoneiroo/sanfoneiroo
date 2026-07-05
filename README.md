@@ -89,7 +89,7 @@ Microfone de rede baseado em ESP32 capaz de capturar áudio analógico, digitali
 
 --- 
 
-### Analisador de Áudio em Tempo Real
+### Analisador de Áudio em Tempo Real RP2040
 Sistema de análise sonora embarcada utilizando RP2040, microfone amplificado e display OLED 128×64. O projeto captura áudio do ambiente, realiza processamento digital e apresenta diferentes modos de visualização como forma de onda, intensidade sonora e distribuição de frequências. 
 
 [Repositório](https://github.com/sanfoneiroo/rt_audioanalyzer) | [Artigo](https://blog.eletrogate.com/analisador-de-audio-em-tempo-real-com-rp2040)
@@ -117,7 +117,7 @@ Exploração da reprodução de áudio digital no ESP32, abordando formatação 
 
 ---
 
-### Theremin Ultrassônico
+### Theremin Ultrassônico Arduino
 Instrumento musical gestual baseado em sensor ultrassônico capaz de transformar a distância da mão em controle sonoro em tempo real.  
 
 [Repositório](https://github.com/sanfoneiroo/ultrasonic_theremin) | [Artigo](https://blog.eletrogate.com/theremin-ultrassonico-com-arduino/)
@@ -131,7 +131,7 @@ Projeto de metrônomo com duas abordagens: controle analógico por potenciômetr
 
 ---
 
-### Sistema Musical Modular
+### Sistema Musical Modular Embarcado
 Sistema que traduz conceitos musicais como notas, ritmo e andamento em estruturas de código reutilizáveis. Organizado em versões para composição, integração embarcada e uso sem PWM por hardware.  
 
 [Repositório](https://github.com/sanfoneiroo/melodias) | [Artigo](https://blog.eletrogate.com/sistema-musical-modular-para-arduino-e-esp32/)
