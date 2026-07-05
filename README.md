@@ -56,6 +56,14 @@ Coleção de laboratórios práticos de redes utilizando Kathara, containers Doc
 
 ---
 
+### Monitor de Host com ESP32
+
+Sistema embarcado para monitoramento de disponibilidade de dispositivos e serviços de rede utilizando o microcontrolador ESP32.
+
+[Repositório](https://github.com/sanfoneiroo/hostmonitor)
+
+---
+
 ### Servidor de Arquivos WiFi ESP32
 
 Servidor de arquivos embarcado para ESP32 com suporte a LittleFS e cartão microSD, gerenciador de arquivos via navegador, display OLED para status do sistema e gerenciador WiFi via servidor web.
@@ -68,7 +76,7 @@ Servidor de arquivos embarcado para ESP32 com suporte a LittleFS e cartão micro
 
 Mini-roteador experimental baseado em ESP32 projetado como ferramenta de laboratório para observação de redes. Atua como gateway entre LAN e WAN, permitindo visualizar clientes conectados, métricas de rede e comportamento de protocolos através de uma interface web. 
 
-[Repositório](https://github.com/sanfoneiroo/router_esp32)
+[Repositório](https://github.com/sanfoneiroo/router_esp32) | [Artigo](https://blog.eletrogate.com/usando-o-esp32-como-roteador)
 
 ---
 
