@@ -68,7 +68,7 @@ Sistema embarcado para monitoramento de disponibilidade de dispositivos e servi�
 
 Servidor de arquivos embarcado para ESP32 com suporte a LittleFS e cartão microSD, gerenciador de arquivos via navegador, display OLED para status do sistema e gerenciador WiFi via servidor web.
 
-[Repositório](https://github.com/sanfoneiroo/fileserver_esp32)
+[Repositório](https://github.com/sanfoneiroo/fileserver_esp32) | [Artigo](https://blog.eletrogate.com/servidor-de-arquivos-com-esp32)
 
 ---
 
