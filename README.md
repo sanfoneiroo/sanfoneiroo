@@ -60,7 +60,7 @@ Coleção de laboratórios práticos de redes utilizando Kathara, containers Doc
 
 Sistema embarcado para monitoramento de disponibilidade de dispositivos e serviços de rede utilizando o microcontrolador ESP32.
 
-[Repositório](https://github.com/sanfoneiroo/hostmonitor)
+[Repositório](https://github.com/sanfoneiroo/hostmonitor) | [Artigo](https://blog.eletrogate.com/monitor-de-host-monitorando-a-disponibilidade-de-servicos-em-redes-e-homelabs-com-o-esp32)
 
 ---
 
