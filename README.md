@@ -2,7 +2,7 @@
 <h3 align="center">Erwin de Mattos</h3>
 
 <p align="center">
-Linux - Sistemas embarcados<br>
+Linux - Redes - Sistemas embarcados<br>
 Músico - Acordeonista
 </p>
 
