@@ -34,33 +34,11 @@ Músico e acordeonista - Licenciatura em Música (UFRJ), atualmente estudo Redes
 
 ## Projetos em destaque
 
-### VPS Labs
+### Monitor de Host com ESP32 ou ARDUINO UNO
 
-Projeto de implantação e administração de infraestrutura web hospedada em nuvem, envolvendo publicação de serviços acessíveis pela Internet, gerenciamento de domínio próprio e manutenção contínua do ambiente.
+Sistema embarcado para monitoramento de disponibilidade de dispositivos e serviços de rede utilizando o microcontrolador ESP32. Posteriormente adiciona versão otimizada para Arduino Uno.
 
-[Acessar Site](https://erwindemattos.com.br)
-
-### Homelab Labs
-
-Coleção de laboratórios práticos de infraestrutura e self-hosting utilizando Linux, Docker, VPN overlay, DNS local, serviços web e sistemas embarcados. Os cenários exploram desde redes privadas com ZeroTier até servidores multimídia com CasaOS e Jellyfin, documentando arquiteturas, serviços e fluxos reais de laboratório doméstico.
-
-[Repositório](https://github.com/sanfoneiroo/homelab)
-
----
-
-### Kathara Labs
-
-Coleção de laboratórios práticos de redes utilizando Kathara, containers Docker e ferramentas de rede do Linux. Os cenários evoluem de conectividade básica até VLANs e roteamento, com configuração automatizada via scripts Bash para reprodução consistente dos experimentos.
-
-[Repositório](https://github.com/sanfoneiroo/kathara_labs) 
-
----
-
-### Monitor de Host com ESP32
-
-Sistema embarcado para monitoramento de disponibilidade de dispositivos e serviços de rede utilizando o microcontrolador ESP32.
-
-[Repositório](https://github.com/sanfoneiroo/hostmonitor) | [Artigo](https://blog.eletrogate.com/monitor-de-host-monitorando-a-disponibilidade-de-servicos-em-redes-e-homelabs-com-o-esp32)
+[Repositório](https://github.com/sanfoneiroo/hostmonitor) | [Artigo ESP32](https://blog.eletrogate.com/monitor-de-host-monitorando-a-disponibilidade-de-servicos-em-redes-e-homelabs-com-o-esp32)
 
 ---
 
@@ -135,6 +113,28 @@ Projeto de metrônomo com duas abordagens: controle analógico por potenciômetr
 Sistema que traduz conceitos musicais como notas, ritmo e andamento em estruturas de código reutilizáveis. Organizado em versões para composição, integração embarcada e uso sem PWM por hardware.  
 
 [Repositório](https://github.com/sanfoneiroo/melodias) | [Artigo](https://blog.eletrogate.com/sistema-musical-modular-para-arduino-e-esp32/)
+
+## Laboratórios
+
+### VPS Labs
+
+Projeto de implantação e administração de infraestrutura web hospedada em nuvem, envolvendo publicação de serviços acessíveis pela Internet, gerenciamento de domínio próprio e manutenção contínua do ambiente.
+
+[Acessar Site](https://erwindemattos.com.br)
+
+### Homelab Labs
+
+Coleção de laboratórios práticos de infraestrutura e self-hosting utilizando Linux, Docker, VPN overlay, DNS local, serviços web e sistemas embarcados. Os cenários exploram desde redes privadas com ZeroTier até servidores multimídia com CasaOS e Jellyfin, documentando arquiteturas, serviços e fluxos reais de laboratório doméstico.
+
+[Repositório](https://github.com/sanfoneiroo/homelab)
+
+---
+
+### Kathara Labs
+
+Coleção de laboratórios práticos de redes utilizando Kathara, containers Docker e ferramentas de rede do Linux. Os cenários evoluem de conectividade básica até VLANs e roteamento, com configuração automatizada via scripts Bash para reprodução consistente dos experimentos.
+
+[Repositório](https://github.com/sanfoneiroo/kathara_labs) 
 
 ---
 
